@@ -177,6 +177,14 @@ I build software end to end — from database schemas and APIs to the pixels use
 
 <br/>
 
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/sami7q/sami7q/blob/output/github-snake-dark.svg" alt="snake gif"/>
+</div>
+
+<br/>
+
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  FEATURED PROJECTS                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
