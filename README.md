@@ -149,39 +149,19 @@ I build software end to end — from database schemas and APIs to the pixels use
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Platform &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
-> A full e-commerce platform with storefront, admin dashboard, and mobile app support.
+### 🧠 StichLife &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
+> A production-style life-management platform with responsive marketing pages, authenticated product screens, AI coaching, health, finance, habits, chat, admin areas, API infrastructure, and SEO-focused public pages.
 
-`Next.js` `TypeScript` `PostgreSQL` `Stripe` `Tailwind`
+`React` `Vite` `TypeScript` `Express` `PostgreSQL` `Tailwind` `Vercel` `SEO`
 
-<a href="https://ecommerce-platform-sage-pi.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Store-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="live store"/>
-</a>
-<a href="https://ecommerce-platform-sage-pi.vercel.app/admin">
-  <img src="https://img.shields.io/badge/Admin_Dashboard-E4405F?style=for-the-badge&logo=vercel&logoColor=white" alt="admin"/>
-</a>
-<a href="https://github.com/sami7q">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Madrasati Plus &nbsp;<img src="https://img.shields.io/badge/5000%2B_WEEKLY_VISITS-2EA44F?style=flat-square&logoColor=white" alt="5000+ weekly visits"/>
-> An educational content platform I worked on, focused on clean structure, SEO-friendly pages, and mobile-first navigation.
-
-`Next.js` `React` `TypeScript` `SEO`
-
-<a href="https://madrasatiplus.com">
+<a href="https://stichlife.com/welcome">
   <img src="https://img.shields.io/badge/Live_Project-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="live project"/>
 </a>
-<a href="https://github.com/sami7q">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
+<a href="https://sami-portfolio-azure.vercel.app/">
+  <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
 </a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 Quvenza Store &nbsp;<img src="https://img.shields.io/badge/FULL_STACK-2EA44F?style=flat-square&logoColor=white" alt="full stack"/>
@@ -195,15 +175,43 @@ I build software end to end — from database schemas and APIs to the pixels use
 <a href="https://github.com/zico20/Quvenza-Store">
   <img src="https://img.shields.io/badge/Original_Collaboration-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="original collaboration"/>
 </a>
-<a href="https://sami-portfolio-azure.vercel.app/">
-  <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Platform &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
+> A full e-commerce platform with storefront, admin dashboard, product flows, and payment-focused structure.
+
+`Next.js` `TypeScript` `PostgreSQL` `Stripe` `Tailwind`
+
+<a href="https://ecommerce-platform-sage-pi.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Store-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="live store"/>
+</a>
+<a href="https://ecommerce-platform-sage-pi.vercel.app/admin">
+  <img src="https://img.shields.io/badge/Admin_Dashboard-E4405F?style=for-the-badge&logo=vercel&logoColor=white" alt="admin"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
+### 🎓 Madrasati Plus &nbsp;<img src="https://img.shields.io/badge/5000%2B_WEEKLY_VISITS-2EA44F?style=flat-square&logoColor=white" alt="5000+ weekly visits"/>
+> An educational content platform I worked on, focused on clean structure, SEO-friendly pages, and mobile-first navigation.
+
+`Next.js` `React` `TypeScript` `SEO`
+
+<a href="https://madrasatiplus.com">
+  <img src="https://img.shields.io/badge/Live_Project-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="live project"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏥 IQ Clinic Management System &nbsp;<img src="https://img.shields.io/badge/SHIPPED-8B949E?style=flat-square&logoColor=white" alt="shipped"/>
-> A full offline-first clinic management system for medical staff.
+> A clinic management system for organizing medical records, operational workflows, and staff processes.
 
 `Django` `PostgreSQL` `Tailwind` `Alpine.js` `HTMX`
 
@@ -212,29 +220,12 @@ I build software end to end — from database schemas and APIs to the pixels use
 </a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ StichLife &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
-> A responsive modern commercial website with mobile-first design and fast performance.
-
-`React` `Next.js` `Tailwind` `SEO`
-
-<a href="https://stichlife.com">
-  <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo"/>
-</a>
-<a href="https://github.com/sami7q">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
-</a>
-
-</td>
 <td width="50%" valign="top">
 
 ### 🌿 HabitFlow &nbsp;<img src="https://img.shields.io/badge/SHIPPED-8B949E?style=flat-square&logoColor=white" alt="shipped"/>
-> A habit tracking app with REST API, streaks, and daily progress analytics.
+> A habit tracking app with REST API workflows, progress tracking, streak logic, and daily productivity features.
 
-`Django REST Framework` `PostgreSQL` `TypeScript`
+`Django REST Framework` `PostgreSQL` `TypeScript` `React`
 
 <a href="https://github.com/sami7q">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
@@ -264,6 +255,16 @@ I build software end to end — from database schemas and APIs to the pixels use
 - Used practical SEO thinking across page titles, descriptions, internal structure, and content clarity.
 - Collaborated on real product improvements with attention to performance, usability, and long-term maintainability.
 
+<br/>
+
+**Frontend & Product Contributor** · *StichLife* · `2025`
+
+- Contributed to a real commercial-style life-management platform available at **https://stichlife.com/welcome**.
+- Worked on responsive frontend experience, page sections, visual structure, and mobile-first presentation for the public product experience.
+- Supported SEO-friendly public pages through clear content hierarchy, metadata-aware structure, readable sections, and brand-focused page organization.
+- Contributed to a TypeScript web stack using **React, Vite, Tailwind CSS, Express, PostgreSQL, Vercel**, and production-oriented project structure.
+- Helped present complex product areas such as habits, health, finance, AI coaching, chat, subscriptions, and account workflows in a cleaner user-facing structure.
+- Focused on usability, performance awareness, responsive layout quality, and clear GitHub documentation for technical and recruiter review.
 
 <br/>
 
