@@ -222,13 +222,16 @@ I build software end to end — from database schemas and APIs to the pixels use
 </td>
 <td width="50%" valign="top">
 
-### 🌿 HabitFlow &nbsp;<img src="https://img.shields.io/badge/SHIPPED-8B949E?style=flat-square&logoColor=white" alt="shipped"/>
+### 🌿 HabitFlow &nbsp;<img src="https://img.shields.io/badge/SOURCE_AVAILABLE-2EA44F?style=flat-square&logoColor=white" alt="source available"/>
 > A habit tracking app with REST API workflows, progress tracking, streak logic, and daily productivity features.
 
 `Django REST Framework` `PostgreSQL` `TypeScript` `React`
 
-<a href="https://github.com/sami7q">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
+<a href="https://github.com/sami7q/sami-habit">
+  <img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="source code"/>
+</a>
+<a href="https://github.com/sami7q/sami-habit">
+  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="view project"/>
 </a>
 
 </td>
