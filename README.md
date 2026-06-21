@@ -184,16 +184,19 @@ I build software end to end — from database schemas and APIs to the pixels use
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 Sami Portfolio &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
-> My personal portfolio showcasing projects, experience, technical skills, and selected web work.
+### 🛒 Quvenza Store &nbsp;<img src="https://img.shields.io/badge/FULL_STACK-2EA44F?style=flat-square&logoColor=white" alt="full stack"/>
+> A full-stack electronics e-commerce application with storefront, product browsing, cart and checkout flows, account pages, admin screens, API routes, Prisma schema, and Docker support.
 
-`Next.js` `React` `TypeScript` `Tailwind`
+`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `Tailwind` `Docker`
 
-<a href="https://sami-portfolio-azure.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="live portfolio"/>
+<a href="https://github.com/sami7q/Quvenza-Store-main">
+  <img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view project"/>
 </a>
-<a href="https://github.com/sami7q">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
+<a href="https://github.com/zico20/Quvenza-Store">
+  <img src="https://img.shields.io/badge/Original_Collaboration-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="original collaboration"/>
+</a>
+<a href="https://sami-portfolio-azure.vercel.app/">
+  <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
 </a>
 
 </td>
@@ -260,6 +263,17 @@ I build software end to end — from database schemas and APIs to the pixels use
 - Focused on fast loading, clear page hierarchy, readable content sections, and a better user experience.
 - Used practical SEO thinking across page titles, descriptions, internal structure, and content clarity.
 - Collaborated on real product improvements with attention to performance, usability, and long-term maintainability.
+
+
+<br/>
+
+**Full Stack E-Commerce Contributor** · *Quvenza Store* · `2026`
+
+- Contributed to a full-stack electronics e-commerce project using **Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind CSS, and Docker**.
+- Worked on product-facing e-commerce flows including storefront structure, product browsing, cart and checkout screens, account pages, and admin dashboard areas.
+- Supported reusable frontend structure, responsive layouts, clean UI sections, and better project presentation for recruiters and engineering reviewers.
+- Helped document the project with a professional README, screenshot structure, setup instructions, technology stack, and contribution notes.
+- Project repository: [github.com/sami7q/Quvenza-Store-main](https://github.com/sami7q/Quvenza-Store-main)
 
 <br/>
 
