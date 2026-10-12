@@ -16,7 +16,7 @@
   <a href="https://sami-portfolio-azure.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/sami-sami-496a33231/">
+  <a href="https://www.linkedin.com/in/sami-aqeel/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sami22eng@gmail.com">
@@ -396,7 +396,7 @@ Have a project in mind, a role to discuss, or just want to say hi?
 <a href="mailto:sami22eng@gmail.com">
   <img src="https://img.shields.io/badge/-Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
-<a href="https://www.linkedin.com/in/sami-sami-496a33231/">
+<a href="https://www.linkedin.com/in/sami-aqeel/">
   <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
