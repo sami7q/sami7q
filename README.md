@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://sami-portfolio-azure.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Sami+%F0%9F%91%8B;Full-Stack+Software+Engineer+%C2%B7+Ankara%2C+T%C3%BCrkiye;Co-founder+of+SoftoDev+IQ;TypeScript+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Python;Open+to+full-time+%26+remote+roles" alt="typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Sami+%F0%9F%91%8B;Full-Stack+Software+Engineer+%C2%B7+Ankara%2C+T%C3%BCrkiye;Building+at+SoftoDev+IQ+%26+Atlas+Almarifa;TypeScript+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Python;Open+to+full-time+%26+remote+roles" alt="typing animation"/>
 </a>
 
 <p>
@@ -59,7 +59,7 @@
 ```yaml
 name: Sami Aqeel
 role: Full-Stack Software Engineer
-company: Co-founder & Lead Engineer @ SoftoDev IQ · Founder @ ETH Teknoloji A.Ş.
+company: Full-Stack Engineer @ SoftoDev IQ & Atlas Almarifa · Founder @ ETH Teknoloji A.Ş.
 education: B.Sc. Software Engineering — OSTİM Technical University (graduating Feb 2027)
 location: Ankara, Türkiye 🇹🇷
 philosophy: "I sweat the details most people never notice —
@@ -70,7 +70,7 @@ languages_spoken: [ "Arabic (native)", "English (professional working)", "Turkis
 available_for: "Full-time roles · Türkiye · UAE · KSA · EU · Remote 🌍"
 ```
 
-I build complete products — from the PostgreSQL schema and APIs to the mobile app in the customer's hand. I work across the stack with **TypeScript (Next.js, React, React Native, Node.js / Fastify)** and **Python (FastAPI, Django)**, on **PostgreSQL** first. As co-founder of **SoftoDev IQ** I've shipped food delivery, e-commerce, warehouse, HR/payroll and SaaS systems for clients in Iraq, Türkiye and the Gulf — owning requirements, architecture, implementation, testing and deployment.
+I build complete products — from the PostgreSQL schema and APIs to the mobile app in the customer's hand. I work across the stack with **TypeScript (Next.js, React, React Native, Node.js / Fastify)** and **Python (FastAPI, Django)**, on **PostgreSQL** first. As a full-stack engineer at **SoftoDev IQ** and **Atlas Almarifa** I've shipped food delivery, e-commerce, warehouse, HR/payroll and SaaS systems for clients in Iraq, Türkiye and the Gulf — owning requirements, architecture, implementation, testing and deployment.
 
 <br/>
 
@@ -283,12 +283,19 @@ I build complete products — from the PostgreSQL schema and APIs to the mobile 
 
 ## 💼 &nbsp;Experience
 
-**Co-Founder & Lead Full-Stack Engineer** · *SoftoDev IQ* · `2024 – Present`
+**Full-Stack Engineer (Part-time)** · *SoftoDev IQ* · `Oct 2025 – Present`
 
-- Lead architecture and delivery of **10+ production systems** for clients — food delivery, e-commerce, HR & payroll, warehouse/barcode, car-shop and multi-tenant business management.
-- Own the full lifecycle: requirements workshops, written specs and ADRs, estimation and pricing, implementation, testing, deployment (**Vercel, Render, Neon, Turso**) and post-launch support.
-- Productized a store-management + POS system into a fixed-price package delivered in under a day.
-- Introduced an AI-assisted engineering workflow (**Claude Code**, spec-first development, CI test gates), cutting feature delivery from weeks to days.
+- Build and ship production systems for clients — food delivery, e-commerce, HR & payroll, warehouse/barcode and business management.
+- Work across the full cycle: client requirements, specs and ADRs, implementation, testing, deployment (**Vercel, Render, Neon, Turso**) and post-launch support.
+- Use an AI-assisted workflow (**Claude Code**, spec-first development, CI test gates) to ship features in days instead of weeks.
+
+<br/>
+
+**Full-Stack Software Engineer (Part-time)** · *Atlas Almarifa (Istanbul, hybrid)* · `May 2024 – Present`
+
+- Built a car-workshop management system: gate intake on mobile, mechanic inspection and pricing on tablet, manager payment and A4 invoicing — four role-based panels on one order workflow.
+- Real-time updates across devices; fixed an upload XSS issue and cut database reads with caching and indexes.
+- Stack: **Next.js 15, TypeScript, Drizzle, Turso, Zod, Vitest, Playwright**.
 
 <br/>
 
